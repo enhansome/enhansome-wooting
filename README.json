@@ -214,7 +214,7 @@
             "last_commit": "2026-05-19T12:40:58Z",
             "owner": "DarthAffe",
             "repo": "RGB.NET",
-            "stars": 421
+            "stars": 420
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-07-28T05:25:25Z",
             "owner": "WootingKb",
             "repo": "wooting-analog-sdk",
-            "stars": 214
+            "stars": 215
           }
         },
         {
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:07:08.954Z",
+    "last_updated": "2026-08-14T23:47:04.867Z",
     "original_repository": "WootingKb/awesome-wooting",
     "original_repository_sha": "a96c511e36c141eb4c31f6cb5094ed8a54a03734",
     "enhanced_repository": "enhansome/enhansome-wooting",

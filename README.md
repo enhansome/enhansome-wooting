@@ -31,8 +31,8 @@ A collection of Wooting related awesomeness!
 
 ## Libraries
 
-* [RGB.NET](https://github.com/DarthAffe/RGB.NET) ⭐ 421 | 🐛 19 | 🌐 C# | 📅 2026-05-19 .NET SDK for controlling RGB across various manufacturers
-* [Wooting Analog SDK](https://github.com/WootingKb/wooting-analog-sdk) ⭐ 214 | 🐛 28 | 🌐 Rust | 📅 2026-07-28 SDK for reading the analog data from analog keyboards
+* [RGB.NET](https://github.com/DarthAffe/RGB.NET) ⭐ 420 | 🐛 19 | 🌐 C# | 📅 2026-05-19 .NET SDK for controlling RGB across various manufacturers
+* [Wooting Analog SDK](https://github.com/WootingKb/wooting-analog-sdk) ⭐ 215 | 🐛 28 | 🌐 Rust | 📅 2026-07-28 SDK for reading the analog data from analog keyboards
 * [Wooting RGB SDK](https://github.com/WootingKb/wooting-rgb-sdk) ⭐ 79 | 🐛 8 | 🌐 C | 📅 2025-12-09 SDK for controlling the RGB of Wooting keyboards
 * [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) Open source & cross-platform RGB lighting control that doesn't depend on manufacturer software (with support for Wooting Keyboards)
 
