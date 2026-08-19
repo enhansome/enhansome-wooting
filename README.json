@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55386834,
             "language": "C#",
             "last_commit": "2023-11-15T22:40:43Z",
             "owner": "antonpup",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367977529,
             "language": "Rust",
             "last_commit": "2026-05-31T13:50:21Z",
             "owner": "ShayBox",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279042059,
             "language": "TypeScript",
             "last_commit": "2024-07-23T00:20:48Z",
             "owner": "WootingKb",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 742701618,
             "language": "Rust",
             "last_commit": "2026-08-09T18:41:03Z",
             "owner": "treymouledoux",
@@ -63,7 +67,7 @@
       "title": "Software"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 556162076,
             "language": "JavaScript",
             "last_commit": "2025-11-16T02:31:29Z",
             "owner": "DjCrqss",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151254507,
             "language": "JavaScript",
             "last_commit": "2024-06-26T22:46:52Z",
             "owner": "DarrenVs",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 793197759,
             "language": "C++",
             "last_commit": "2025-07-17T06:41:59Z",
             "owner": "AnalogSense",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328473964,
             "language": "C#",
             "last_commit": "2024-10-26T20:23:50Z",
             "owner": "Kristallranke",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230273288,
             "language": "C#",
             "last_commit": "2026-03-16T22:04:10Z",
             "owner": "Garbius",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 487904193,
             "language": "C#",
             "last_commit": "2023-11-11T14:19:22Z",
             "owner": "Garbius",
@@ -153,7 +163,7 @@
       "title": "Integrations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 701079061,
             "language": "C++",
             "last_commit": "2026-07-26T12:03:12Z",
             "owner": "AnalogSense",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273207759,
             "language": "Rust",
             "last_commit": "2022-06-24T17:08:36Z",
             "owner": "TanTanDev",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 774614425,
             "language": "Shell",
             "last_commit": "2025-06-19T11:46:25Z",
             "owner": "Calslock",
@@ -201,161 +214,180 @@
       "title": "Misc"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "RGB.NET",
-          "description": ".NET SDK for controlling RGB across various manufacturers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-05-19T12:40:58Z",
-            "owner": "DarthAffe",
-            "repo": "RGB.NET",
-            "stars": 420
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wooting Analog SDK",
-          "description": "SDK for reading the analog data from analog keyboards",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-28T05:25:25Z",
-            "owner": "WootingKb",
-            "repo": "wooting-analog-sdk",
-            "stars": 217
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wooting RGB SDK",
-          "description": "SDK for controlling the RGB of Wooting keyboards",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-09T10:02:31Z",
-            "owner": "WootingKb",
-            "repo": "wooting-rgb-sdk",
-            "stars": 79
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RGB.NET",
+              "description": ".NET SDK for controlling RGB across various manufacturers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78947762,
+                "language": "C#",
+                "last_commit": "2026-05-19T12:40:58Z",
+                "owner": "DarthAffe",
+                "repo": "RGB.NET",
+                "stars": 420
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wooting Analog SDK",
+              "description": "SDK for reading the analog data from analog keyboards",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194277328,
+                "language": "Rust",
+                "last_commit": "2026-07-28T05:25:25Z",
+                "owner": "WootingKb",
+                "repo": "wooting-analog-sdk",
+                "stars": 217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wooting RGB SDK",
+              "description": "SDK for controlling the RGB of Wooting keyboards",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133573560,
+                "language": "C",
+                "last_commit": "2025-12-09T10:02:31Z",
+                "owner": "WootingKb",
+                "repo": "wooting-rgb-sdk",
+                "stars": 79
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "DeviceRGB - UE4",
+                  "description": "Plugin for UE4 that lets you control RGB devices using materials and textures (With Wooting RGB SDK support)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 392376560,
+                    "language": "C++",
+                    "last_commit": "2021-11-06T15:29:44Z",
+                    "owner": "pramberg",
+                    "repo": "DeviceRGB",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Wooting.NET",
+                  "description": ".NET Wrapper for the Wooting RGB SDK",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 135073924,
+                    "language": "C#",
+                    "last_commit": "2024-01-18T12:41:07Z",
+                    "owner": "simon-wh",
+                    "repo": "Wooting.NET",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WootingAnalogSDK.NET",
+                  "description": ".NET Wrapper for the Wooting Analog SDK",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 200913865,
+                    "language": "C#",
+                    "last_commit": "2023-01-10T15:17:52Z",
+                    "owner": "WootingKb",
+                    "repo": "wooting-analog-wrappers",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Wooting.JS",
+                  "description": "Lightweight Javascript(TS) library for reading analog input on the Web using WebHID!",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 389819192,
+                    "language": "TypeScript",
+                    "last_commit": "2022-05-22T21:34:43Z",
+                    "owner": "colecrouter",
+                    "repo": "wooting-js",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Analog Unreal Engine plugin",
+                  "description": "Plugin for Unreal Engine to support the integration of Wooting Analog inputs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 209517483,
+                    "language": "C++",
+                    "last_commit": "2020-09-10T10:26:11Z",
+                    "owner": "WootingKb",
+                    "repo": "wooting-analog-unreal-plugin",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Python Wooting RGB",
+                  "description": "Python wrapper for Wooting RGB SDK",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 441642099,
+                    "language": "Python",
+                    "last_commit": "2021-12-26T16:47:45Z",
+                    "owner": "xiamaz",
+                    "repo": "python-wooting-rgb",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Rust Wooting RGB",
+                  "description": "Rust wrapper for Wooting RGB SDK",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 659591491,
+                    "language": "Rust",
+                    "last_commit": "2026-01-31T16:54:59Z",
+                    "owner": "ShayBox",
+                    "repo": "Wooting-RGB",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Language Wrappers"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
         }
       ],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DeviceRGB - UE4",
-          "description": "Plugin for UE4 that lets you control RGB devices using materials and textures (With Wooting RGB SDK support)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-11-06T15:29:44Z",
-            "owner": "pramberg",
-            "repo": "DeviceRGB",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wooting.NET",
-          "description": ".NET Wrapper for the Wooting RGB SDK",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-01-18T12:41:07Z",
-            "owner": "simon-wh",
-            "repo": "Wooting.NET",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WootingAnalogSDK.NET",
-          "description": ".NET Wrapper for the Wooting Analog SDK",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-01-10T15:17:52Z",
-            "owner": "WootingKb",
-            "repo": "wooting-analog-wrappers",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wooting.JS",
-          "description": "Lightweight Javascript(TS) library for reading analog input on the Web using WebHID!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-05-22T21:34:43Z",
-            "owner": "colecrouter",
-            "repo": "wooting-js",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Analog Unreal Engine plugin",
-          "description": "Plugin for Unreal Engine to support the integration of Wooting Analog inputs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2020-09-10T10:26:11Z",
-            "owner": "WootingKb",
-            "repo": "wooting-analog-unreal-plugin",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python Wooting RGB",
-          "description": "Python wrapper for Wooting RGB SDK",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-12-26T16:47:45Z",
-            "owner": "xiamaz",
-            "repo": "python-wooting-rgb",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rust Wooting RGB",
-          "description": "Rust wrapper for Wooting RGB SDK",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-01-31T16:54:59Z",
-            "owner": "ShayBox",
-            "repo": "Wooting-RGB",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Language Wrappers"
+      "title": "For developers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:46:28.065Z",
+    "last_updated": "2026-08-19T12:59:13.753Z",
     "original_repository": "WootingKb/awesome-wooting",
+    "original_repository_id": 488898465,
     "original_repository_sha": "a96c511e36c141eb4c31f6cb5094ed8a54a03734",
     "enhanced_repository": "enhansome/enhansome-wooting",
     "enhanced_repository_description": null,
