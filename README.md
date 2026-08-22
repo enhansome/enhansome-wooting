@@ -40,9 +40,9 @@ A collection of Wooting related awesomeness!
 
 * [DeviceRGB - UE4](https://github.com/pramberg/DeviceRGB) ⭐ 11 | 🐛 5 | 🌐 C++ | 📅 2021-11-06 Plugin for UE4 that lets you control RGB devices using materials and textures (With Wooting RGB SDK support)
 * [Wooting.NET](https://github.com/simon-wh/Wooting.NET) ⭐ 10 | 🐛 1 | 🌐 C# | 📅 2024-01-18 .NET Wrapper for the Wooting RGB SDK
+* [Analog Unreal Engine plugin](https://github.com/WootingKb/wooting-analog-unreal-plugin) ⭐ 8 | 🐛 0 | 🌐 C++ | 📅 2020-09-10 Plugin for Unreal Engine to support the integration of Wooting Analog inputs
 * [WootingAnalogSDK.NET](https://github.com/WootingKb/wooting-analog-wrappers) ⭐ 8 | 🐛 4 | 🌐 C# | 📅 2023-01-10 .NET Wrapper for the Wooting Analog SDK
 * [Wooting.JS](https://github.com/Mexican-Man/wooting-js) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2022-05-22 Lightweight Javascript(TS) library for reading analog input on the Web using WebHID!
-* [Analog Unreal Engine plugin](https://github.com/WootingKb/wooting-analog-unreal-plugin) ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2020-09-10 Plugin for Unreal Engine to support the integration of Wooting Analog inputs
 * [Python Wooting RGB](https://github.com/xiamaz/python-wooting-rgb) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2021-12-26 Python wrapper for Wooting RGB SDK
 * [Rust Wooting RGB](https://github.com/ShayBox/Wooting-RGB) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2026-01-31 Rust wrapper for Wooting RGB SDK
 
@@ -52,4 +52,4 @@ A collection of Wooting related awesomeness!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

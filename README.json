@@ -297,6 +297,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Analog Unreal Engine plugin",
+                  "description": "Plugin for Unreal Engine to support the integration of Wooting Analog inputs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 209517483,
+                    "language": "C++",
+                    "last_commit": "2020-09-10T10:26:11Z",
+                    "owner": "WootingKb",
+                    "repo": "wooting-analog-unreal-plugin",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "WootingAnalogSDK.NET",
                   "description": ".NET Wrapper for the Wooting Analog SDK",
                   "children": [],
@@ -323,21 +338,6 @@
                     "owner": "colecrouter",
                     "repo": "wooting-js",
                     "stars": 8
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Analog Unreal Engine plugin",
-                  "description": "Plugin for Unreal Engine to support the integration of Wooting Analog inputs",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 209517483,
-                    "language": "C++",
-                    "last_commit": "2020-09-10T10:26:11Z",
-                    "owner": "WootingKb",
-                    "repo": "wooting-analog-unreal-plugin",
-                    "stars": 7
                   }
                 },
                 {
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:48:09.228Z",
+    "last_updated": "2026-08-22T23:45:05.908Z",
     "original_repository": "WootingKb/awesome-wooting",
     "original_repository_id": 488898465,
     "original_repository_sha": "a96c511e36c141eb4c31f6cb5094ed8a54a03734",
