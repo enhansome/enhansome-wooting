@@ -15,7 +15,7 @@
             "last_commit": "2023-11-15T22:40:43Z",
             "owner": "antonpup",
             "repo": "Aurora",
-            "stars": 1845
+            "stars": 1844
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-31T13:50:21Z",
             "owner": "ShayBox",
             "repo": "Wooting-Profile-Switcher",
-            "stars": 92
+            "stars": 91
           }
         },
         {
@@ -245,7 +245,7 @@
                 "last_commit": "2026-07-28T05:25:25Z",
                 "owner": "WootingKb",
                 "repo": "wooting-analog-sdk",
-                "stars": 217
+                "stars": 218
               }
             },
             {
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:45:05.908Z",
+    "last_updated": "2026-08-23T23:44:56.017Z",
     "original_repository": "WootingKb/awesome-wooting",
     "original_repository_id": 488898465,
     "original_repository_sha": "a96c511e36c141eb4c31f6cb5094ed8a54a03734",
