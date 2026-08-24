@@ -379,13 +379,35 @@
           "description": null,
           "node_type": "group",
           "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Wooting Design Files",
+              "description": "Design and hardware files for Wooting keyboards",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302051704,
+                "language": null,
+                "last_commit": "2026-01-19T02:21:31Z",
+                "owner": "WootingKb",
+                "repo": "wooting-design",
+                "stars": 160
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Resources"
         }
       ],
       "title": "For developers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:44:56.017Z",
+    "last_updated": "2026-08-24T14:41:24.913Z",
     "original_repository": "WootingKb/awesome-wooting",
     "original_repository_id": 488898465,
     "original_repository_sha": "a96c511e36c141eb4c31f6cb5094ed8a54a03734",
