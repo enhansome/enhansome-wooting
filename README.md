@@ -9,7 +9,7 @@ A collection of Wooting related awesomeness!
 * [Aurora RGB](https://github.com/antonpup/Aurora) ⭐ 1,844 | 🐛 654 | 🌐 C# | 📅 2023-11-15 Similar to Artemis, but not really maintained anymore
 * [Wooting Profile Switcher](https://github.com/ShayBox/WootingProfileSwitcher) ⭐ 91 | 🐛 5 | 🌐 Rust | 📅 2026-05-31 A small tool to automatically switch between the profiles of your Wooting keyboard.
 * [Wooting Analog MIDI](https://github.com/WootingKb/wooting-analog-midi) ⭐ 87 | 🐛 24 | 🌐 TypeScript | 📅 2024-07-23 Simple app that converts Analog inputs into MIDI
-* [Wootili-View](https://github.com/MrEnder0/wootili-view) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2026-08-09 Ambilight software for Wooting devices
+* [Wootili-View](https://github.com/MrEnder0/wootili-view) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2026-08-25 Ambilight software for Wooting devices
 * [Artemis RGB](https://artemis-rgb.com/) Unified RGB Software covering many manufacturers and devices (including Wooting), with support for many Games and effects
 
 ## Integrations
@@ -52,4 +52,4 @@ A collection of Wooting related awesomeness!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
