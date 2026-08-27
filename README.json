@@ -407,9 +407,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:37:26.876Z",
-    "original_repository": "WootingKb/awesome-wooting",
-    "original_repository_id": 488898465,
+    "last_updated": "2026-08-27T12:11:58.226Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 488898465,
+      "language": null,
+      "last_commit": "2025-02-24T13:02:28Z",
+      "owner": "WootingKb",
+      "repo": "awesome-wooting",
+      "stars": 93
+    },
     "original_repository_sha": "a96c511e36c141eb4c31f6cb5094ed8a54a03734",
     "enhanced_repository": "enhansome/enhansome-wooting",
     "enhanced_repository_description": null,
