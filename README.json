@@ -16,7 +16,8 @@
             "owner": "antonpup",
             "repo": "Aurora",
             "stars": 1844
-          }
+          },
+          "first_seen": "2026-08-28T07:00:12.042Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "ShayBox",
             "repo": "Wooting-Profile-Switcher",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T07:00:12.042Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "WootingKb",
             "repo": "wooting-analog-midi",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T07:00:12.042Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "treymouledoux",
             "repo": "wootili-view",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T07:00:12.042Z"
         }
       ],
       "title": "Software"
@@ -82,7 +86,8 @@
             "owner": "DjCrqss",
             "repo": "Woot-verlay",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T07:00:12.042Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "DarrenVs",
             "repo": "analog_keyboard_overlay",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T07:00:12.042Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "AnalogSense",
             "repo": "AnalogSense.asi",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T07:00:12.042Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "Kristallranke",
             "repo": "KSPW00tNow",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T07:00:12.042Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "Garbius",
             "repo": "WootingPlugin",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T07:00:12.042Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Garbius",
             "repo": "SEAnalogWheels",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T07:00:12.042Z"
         }
       ],
       "title": "Integrations"
@@ -178,7 +188,8 @@
             "owner": "AnalogSense",
             "repo": "universal-analog-plugin",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T07:00:12.042Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "TanTanDev",
             "repo": "wooting_snake",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T07:00:12.042Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "Calslock",
             "repo": "wootinstaller",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T07:00:12.042Z"
         }
       ],
       "title": "Misc"
@@ -231,7 +244,8 @@
                 "owner": "DarthAffe",
                 "repo": "RGB.NET",
                 "stars": 420
-              }
+              },
+              "first_seen": "2026-08-28T07:00:12.042Z"
             },
             {
               "node_type": "item",
@@ -246,7 +260,8 @@
                 "owner": "WootingKb",
                 "repo": "wooting-analog-sdk",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-28T07:00:12.042Z"
             },
             {
               "node_type": "item",
@@ -261,7 +276,8 @@
                 "owner": "WootingKb",
                 "repo": "wooting-rgb-sdk",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T07:00:12.042Z"
             },
             {
               "children": [
@@ -278,7 +294,8 @@
                     "owner": "pramberg",
                     "repo": "DeviceRGB",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:00:12.042Z"
                 },
                 {
                   "node_type": "item",
@@ -293,7 +310,8 @@
                     "owner": "simon-wh",
                     "repo": "Wooting.NET",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:00:12.042Z"
                 },
                 {
                   "node_type": "item",
@@ -308,7 +326,8 @@
                     "owner": "WootingKb",
                     "repo": "wooting-analog-unreal-plugin",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:00:12.042Z"
                 },
                 {
                   "node_type": "item",
@@ -323,7 +342,8 @@
                     "owner": "WootingKb",
                     "repo": "wooting-analog-wrappers",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:00:12.042Z"
                 },
                 {
                   "node_type": "item",
@@ -338,7 +358,8 @@
                     "owner": "colecrouter",
                     "repo": "wooting-js",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:00:12.042Z"
                 },
                 {
                   "node_type": "item",
@@ -353,7 +374,8 @@
                     "owner": "xiamaz",
                     "repo": "python-wooting-rgb",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:00:12.042Z"
                 },
                 {
                   "node_type": "item",
@@ -368,7 +390,8 @@
                     "owner": "ShayBox",
                     "repo": "Wooting-RGB",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:00:12.042Z"
                 }
               ],
               "description": null,
@@ -395,7 +418,8 @@
                 "owner": "WootingKb",
                 "repo": "wooting-design",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T07:00:12.042Z"
             }
           ],
           "description": null,
@@ -407,7 +431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:11:58.226Z",
+    "last_updated": "2026-08-28T07:00:12.042Z",
     "original_repository_info": {
       "archived": false,
       "id": 488898465,
