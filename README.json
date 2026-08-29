@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified lighting effects across multiple brands and various games.",
+            "homepage": "http://www.project-aurora.com",
             "id": 55386834,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-11-15T22:40:43Z",
+            "open_issues": 654,
             "owner": "antonpup",
             "repo": "Aurora",
-            "stars": 1844
+            "stars": 1844,
+            "topics": [
+              "aurora",
+              "c-sharp",
+              "community",
+              "cooler-master",
+              "corsair",
+              "csgo",
+              "dota-2",
+              "dota2",
+              "game",
+              "gta",
+              "gta5",
+              "hotline-miami",
+              "lighting",
+              "lighting-effects",
+              "logitech",
+              "overwatch",
+              "razer",
+              "rgb",
+              "unified",
+              "wooting"
+            ]
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
         },
@@ -26,12 +52,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically switch Wooting keyboard profiles based on focused window",
+            "homepage": null,
             "id": 367977529,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-05-31T13:50:21Z",
+            "open_issues": 5,
             "owner": "ShayBox",
             "repo": "Wooting-Profile-Switcher",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "linux",
+              "macos",
+              "windows",
+              "wooting",
+              "wooting-keyboard",
+              "wooting-keyboards"
+            ]
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
         },
@@ -42,12 +80,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform virtual MIDI device for (Wooting) analog keyboards!",
+            "homepage": null,
             "id": 279042059,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-23T00:20:48Z",
+            "open_issues": 24,
             "owner": "WootingKb",
             "repo": "wooting-analog-midi",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
         },
@@ -58,12 +101,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ambilight software for wooting devices",
+            "homepage": null,
             "id": 742701618,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-25T05:27:19Z",
+            "open_issues": 0,
             "owner": "treymouledoux",
             "repo": "wootili-view",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "dynamic-lighting",
+              "rgb",
+              "wooting"
+            ]
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
         }
@@ -80,12 +132,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pressure sensitive display for the analog values of your keyboard! Works with both Wooting and any standard or Hall Effect keyboards. Visit the page to mess around, or add it as a fully functional overlay to your streams.",
+            "homepage": "https://djcrqss.github.io/Woot-verlay/",
             "id": 556162076,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-11-16T02:31:29Z",
+            "open_issues": 12,
             "owner": "DjCrqss",
             "repo": "Woot-verlay",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "gaming-software",
+              "hall-effect",
+              "hall-effect-sensor",
+              "keyboard",
+              "osu",
+              "osu-lay",
+              "osugame",
+              "overlay",
+              "streaming",
+              "woot-verlay",
+              "wooting",
+              "wooting-analog-sdk",
+              "wooting-keyboard"
+            ]
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
         },
@@ -96,12 +167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser overlay for OBS:",
+            "homepage": "https://darrenvs.github.io/analog_keyboard_overlay/",
             "id": 151254507,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-06-26T22:46:52Z",
+            "open_issues": 1,
             "owner": "DarrenVs",
             "repo": "analog_keyboard_overlay",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
         },
@@ -112,12 +188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bringing support for analog keyboard input to games.",
+            "homepage": null,
             "id": 793197759,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-07-17T06:41:59Z",
+            "open_issues": 4,
             "owner": "AnalogSense",
             "repo": "AnalogSense.asi",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
         },
@@ -128,12 +209,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Support for Wooting Keyboards (e.g. Wooting One/Two)",
+            "homepage": null,
             "id": 328473964,
             "language": "C#",
+            "license": "MPL-2.0",
             "last_commit": "2024-10-26T20:23:50Z",
+            "open_issues": 1,
             "owner": "Kristallranke",
             "repo": "KSPW00tNow",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "kerbal-mods",
+              "kerbal-space-program",
+              "wooting",
+              "wooting-keyboard",
+              "wooting-keyboards"
+            ]
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
         },
@@ -144,12 +236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wooting support for Space Engineers",
+            "homepage": null,
             "id": 230273288,
             "language": "C#",
+            "license": "MPL-2.0",
             "last_commit": "2026-03-16T22:04:10Z",
+            "open_issues": 3,
             "owner": "Garbius",
             "repo": "WootingPlugin",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
         },
@@ -160,12 +257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for Space Engineers. Makes the brakes and throttle of wheeled vehicles work with analog devices, such as Xbox controllers.",
+            "homepage": null,
             "id": 487904193,
             "language": "C#",
+            "license": "MPL-2.0",
             "last_commit": "2023-11-11T14:19:22Z",
+            "open_issues": 0,
             "owner": "Garbius",
             "repo": "SEAnalogWheels",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
         }
@@ -182,12 +284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for the Wooting Analog SDK that makes it support a wider range of keyboards.",
+            "homepage": null,
             "id": 701079061,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-07-26T12:03:12Z",
+            "open_issues": 17,
             "owner": "AnalogSense",
             "repo": "universal-analog-plugin",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
         },
@@ -198,12 +305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Snake on wooting keyboards, written with Rust",
+            "homepage": null,
             "id": 273207759,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-24T17:08:36Z",
+            "open_issues": 4,
             "owner": "TanTanDev",
             "repo": "wooting_snake",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
         },
@@ -214,12 +326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wootility auto-configurator and installer for Linux/Steam Deck",
+            "homepage": null,
             "id": 774614425,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-06-19T11:46:25Z",
+            "open_issues": 0,
             "owner": "Calslock",
             "repo": "wootinstaller",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
         }
@@ -238,12 +355,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The one-stop SDK for RGB-peripherals",
+                "homepage": null,
                 "id": 78947762,
                 "language": "C#",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-05-19T12:40:58Z",
+                "open_issues": 19,
                 "owner": "DarthAffe",
                 "repo": "RGB.NET",
-                "stars": 420
+                "stars": 420,
+                "topics": [
+                  "asus",
+                  "aura",
+                  "coolermaster",
+                  "corsair",
+                  "dmx",
+                  "led",
+                  "logitech",
+                  "msi",
+                  "novation",
+                  "openrgb",
+                  "peripherals",
+                  "razer",
+                  "rgb",
+                  "steelseries",
+                  "wled",
+                  "wooting"
+                ]
               },
               "first_seen": "2026-08-28T07:00:12.042Z"
             },
@@ -254,12 +393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native support for Analog Keyboards #WootDev",
+                "homepage": null,
                 "id": 194277328,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2026-07-28T05:25:25Z",
+                "open_issues": 28,
                 "owner": "WootingKb",
                 "repo": "wooting-analog-sdk",
-                "stars": 218
+                "stars": 218,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:00:12.042Z"
             },
@@ -270,12 +414,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Customize colors on Wooting Keyboard #WootDev",
+                "homepage": null,
                 "id": 133573560,
                 "language": "C",
+                "license": "MPL-2.0",
                 "last_commit": "2025-12-09T10:02:31Z",
+                "open_issues": 8,
                 "owner": "WootingKb",
                 "repo": "wooting-rgb-sdk",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "wooting"
+                ]
               },
               "first_seen": "2026-08-28T07:00:12.042Z"
             },
@@ -288,12 +439,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🌈 Plugin for UE4 that lets you control RGB devices using materials and textures",
+                    "homepage": null,
                     "id": 392376560,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2021-11-06T15:29:44Z",
+                    "open_issues": 5,
                     "owner": "pramberg",
                     "repo": "DeviceRGB",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "corsair",
+                      "icue",
+                      "logitech",
+                      "logitech-sdk",
+                      "plugin",
+                      "razer",
+                      "razer-chroma",
+                      "rgb",
+                      "rgb-led",
+                      "ue4",
+                      "ue4-plugin",
+                      "wooting"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:00:12.042Z"
                 },
@@ -304,12 +473,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wooting RGB control .NET wrapper",
+                    "homepage": null,
                     "id": 135073924,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2024-01-18T12:41:07Z",
+                    "open_issues": 1,
                     "owner": "simon-wh",
                     "repo": "Wooting.NET",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "analog",
+                      "dotnet",
+                      "dotnet-standard",
+                      "keyboard",
+                      "rgb",
+                      "rgb-led",
+                      "wooting",
+                      "wrapper"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:00:12.042Z"
                 },
@@ -320,12 +503,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Plugin for Unreal Engine to support the integration of Wooting Analog inputs",
+                    "homepage": null,
                     "id": 209517483,
                     "language": "C++",
+                    "license": "MPL-2.0",
                     "last_commit": "2020-09-10T10:26:11Z",
+                    "open_issues": 0,
                     "owner": "WootingKb",
                     "repo": "wooting-analog-unreal-plugin",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "analog",
+                      "unreal-engine",
+                      "wooting",
+                      "wooting-analog-sdk"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:00:12.042Z"
                 },
@@ -336,12 +529,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 200913865,
                     "language": "C#",
+                    "license": "MPL-2.0",
                     "last_commit": "2023-01-10T15:17:52Z",
+                    "open_issues": 4,
                     "owner": "WootingKb",
                     "repo": "wooting-analog-wrappers",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:12.042Z"
                 },
@@ -352,12 +550,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minimal JavaScript (TypeScript) library using WebHID ",
+                    "homepage": "https://mexican-man.github.io/wooting-js/",
                     "id": 389819192,
                     "language": "TypeScript",
+                    "license": "Unlicense",
                     "last_commit": "2022-05-22T21:34:43Z",
+                    "open_issues": 0,
                     "owner": "colecrouter",
                     "repo": "wooting-js",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "javascript",
+                      "typescript",
+                      "wooting-keyboard"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:00:12.042Z"
                 },
@@ -368,12 +575,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python bindings for Wooting RGB SDK",
+                    "homepage": null,
                     "id": 441642099,
                     "language": "Python",
+                    "license": "MPL-2.0",
                     "last_commit": "2021-12-26T16:47:45Z",
+                    "open_issues": 1,
                     "owner": "xiamaz",
                     "repo": "python-wooting-rgb",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:12.042Z"
                 },
@@ -384,12 +596,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wooting RGB SDK Rust Bindings and Library",
+                    "homepage": null,
                     "id": 659591491,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2026-01-31T16:54:59Z",
+                    "open_issues": 0,
                     "owner": "ShayBox",
                     "repo": "Wooting-RGB",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "wooting",
+                      "wooting-keyboard",
+                      "wooting-keyboards",
+                      "wooting-rgb",
+                      "wooting-rgb-sdk",
+                      "wooting-sdk"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:00:12.042Z"
                 }
@@ -412,12 +636,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Design and hardware files for Wooting keyboards",
+                "homepage": null,
                 "id": 302051704,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-19T02:21:31Z",
+                "open_issues": 2,
                 "owner": "WootingKb",
                 "repo": "wooting-design",
-                "stars": 160
+                "stars": 160,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:00:12.042Z"
             }
@@ -431,15 +660,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:00:12.042Z",
+    "last_updated": "2026-08-29T04:22:20.898Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of awesomeness around Wooting keyboards",
+      "homepage": null,
       "id": 488898465,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-02-24T13:02:28Z",
+      "open_issues": 4,
       "owner": "WootingKb",
       "repo": "awesome-wooting",
-      "stars": 93
+      "stars": 93,
+      "topics": [
+        "analog-keyboard",
+        "awesome",
+        "awesome-list",
+        "keyboard",
+        "rgb",
+        "wooting",
+        "wooting-analog-sdk",
+        "wooting-keyboard"
+      ]
     },
     "original_repository_sha": "a96c511e36c141eb4c31f6cb5094ed8a54a03734",
     "enhanced_repository": "enhansome/enhansome-wooting",
