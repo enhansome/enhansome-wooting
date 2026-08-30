@@ -197,7 +197,7 @@
             "open_issues": 4,
             "owner": "AnalogSense",
             "repo": "AnalogSense.asi",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:59:36.187Z",
+    "last_updated": "2026-08-30T01:26:33.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
