@@ -7,7 +7,7 @@ A collection of Wooting related awesomeness!
 ## Software
 
 * [Aurora RGB](https://github.com/antonpup/Aurora) ⭐ 1,843 | 🐛 654 | 🌐 C# | 📅 2023-11-15 Similar to Artemis, but not really maintained anymore
-* [Wooting Profile Switcher](https://github.com/ShayBox/WootingProfileSwitcher) ⭐ 91 | 🐛 5 | 🌐 Rust | 📅 2026-05-31 A small tool to automatically switch between the profiles of your Wooting keyboard.
+* [Wooting Profile Switcher](https://github.com/ShayBox/WootingProfileSwitcher) ⭐ 89 | 🐛 5 | 🌐 Rust | 📅 2026-05-31 A small tool to automatically switch between the profiles of your Wooting keyboard.
 * [Wooting Analog MIDI](https://github.com/WootingKb/wooting-analog-midi) ⭐ 87 | 🐛 24 | 🌐 TypeScript | 📅 2024-07-23 Simple app that converts Analog inputs into MIDI
 * [Wootili-View](https://github.com/MrEnder0/wootili-view) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2026-08-25 Ambilight software for Wooting devices
 * [Artemis RGB](https://artemis-rgb.com/) Unified RGB Software covering many manufacturers and devices (including Wooting), with support for many Games and effects
@@ -23,7 +23,7 @@ A collection of Wooting related awesomeness!
 
 ## Misc
 
-* [Universal Analog Plugin](https://github.com/calamity-inc/universal-analog-plugin) ⭐ 36 | 🐛 17 | 🌐 C++ | 📅 2026-07-26 is a plugin for the Wooting Analog SDK that adds support for Razer keyboards
+* [Universal Analog Plugin](https://github.com/calamity-inc/universal-analog-plugin) ⭐ 36 | 🐛 18 | 🌐 C++ | 📅 2026-07-26 is a plugin for the Wooting Analog SDK that adds support for Razer keyboards
 * [Wooting Snake](https://github.com/TanTanDev/wooting_snake) ⭐ 26 | 🐛 4 | 🌐 Rust | 📅 2022-06-24 Snake on wooting keyboards, written with Rust
 * [wootinstaller](https://github.com/Calslock/wootinstaller) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2025-06-19 Wootility auto-configurator and installer for Linux/Steam Deck
 
@@ -52,4 +52,4 @@ A collection of Wooting related awesomeness!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

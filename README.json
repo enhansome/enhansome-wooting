@@ -61,7 +61,7 @@
             "open_issues": 5,
             "owner": "ShayBox",
             "repo": "Wooting-Profile-Switcher",
-            "stars": 91,
+            "stars": 89,
             "topics": [
               "linux",
               "macos",
@@ -290,7 +290,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-07-26T12:03:12Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "AnalogSense",
             "repo": "universal-analog-plugin",
             "stars": 36,
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:17:02.214Z",
+    "last_updated": "2026-09-04T01:09:28.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
