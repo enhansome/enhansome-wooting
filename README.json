@@ -399,7 +399,7 @@
                 "language": "Rust",
                 "license": "MPL-2.0",
                 "last_commit": "2026-07-28T05:25:25Z",
-                "open_issues": 28,
+                "open_issues": 31,
                 "owner": "WootingKb",
                 "repo": "wooting-analog-sdk",
                 "stars": 221,
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:21:53.270Z",
+    "last_updated": "2026-09-10T01:17:57.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
