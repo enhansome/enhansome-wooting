@@ -61,7 +61,7 @@
             "open_issues": 5,
             "owner": "ShayBox",
             "repo": "Wooting-Profile-Switcher",
-            "stars": 89,
+            "stars": 88,
             "topics": [
               "linux",
               "macos",
@@ -524,27 +524,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "WootingAnalogSDK.NET",
-                  "description": ".NET Wrapper for the Wooting Analog SDK",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 200913865,
-                    "language": "C#",
-                    "license": "MPL-2.0",
-                    "last_commit": "2023-01-10T15:17:52Z",
-                    "open_issues": 4,
-                    "owner": "WootingKb",
-                    "repo": "wooting-analog-wrappers",
-                    "stars": 8,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T07:00:12.042Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Wooting.JS",
                   "description": "Lightweight Javascript(TS) library for reading analog input on the Web using WebHID!",
                   "children": [],
@@ -565,6 +544,27 @@
                       "typescript",
                       "wooting-keyboard"
                     ]
+                  },
+                  "first_seen": "2026-08-28T07:00:12.042Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "WootingAnalogSDK.NET",
+                  "description": ".NET Wrapper for the Wooting Analog SDK",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 200913865,
+                    "language": "C#",
+                    "license": "MPL-2.0",
+                    "last_commit": "2023-01-10T15:17:52Z",
+                    "open_issues": 4,
+                    "owner": "WootingKb",
+                    "repo": "wooting-analog-wrappers",
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:12.042Z"
                 },
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T01:17:57.680Z",
+    "last_updated": "2026-09-11T01:19:30.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
