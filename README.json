@@ -645,7 +645,7 @@
                 "open_issues": 2,
                 "owner": "WootingKb",
                 "repo": "wooting-design",
-                "stars": 162,
+                "stars": 163,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:12.042Z"
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:43:10.095Z",
+    "last_updated": "2026-09-23T01:38:12.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
@@ -672,7 +672,7 @@
       "open_issues": 3,
       "owner": "WootingKb",
       "repo": "awesome-wooting",
-      "stars": 95,
+      "stars": 96,
       "topics": [
         "analog-keyboard",
         "awesome",
