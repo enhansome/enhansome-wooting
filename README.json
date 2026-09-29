@@ -57,7 +57,7 @@
             "id": 367977529,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-05-31T13:50:21Z",
+            "last_commit": "2026-09-28T19:58:17Z",
             "open_issues": 5,
             "owner": "ShayBox",
             "repo": "Wooting-Profile-Switcher",
@@ -419,8 +419,8 @@
                 "id": 133573560,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2025-12-09T10:02:31Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-28T09:14:40Z",
+                "open_issues": 8,
                 "owner": "WootingKb",
                 "repo": "wooting-rgb-sdk",
                 "stars": 80,
@@ -601,7 +601,7 @@
                     "id": 659591491,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-01-31T16:54:59Z",
+                    "last_commit": "2026-09-28T19:11:29Z",
                     "open_issues": 0,
                     "owner": "ShayBox",
                     "repo": "Wooting-RGB",
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:50:41.929Z",
+    "last_updated": "2026-09-29T02:39:12.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",

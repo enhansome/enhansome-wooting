@@ -7,7 +7,7 @@ A collection of Wooting related awesomeness!
 ## Software
 
 * [Aurora RGB](https://github.com/antonpup/Aurora) ⭐ 1,841 | 🐛 654 | 🌐 C# | 📅 2023-11-15 Similar to Artemis, but not really maintained anymore
-* [Wooting Profile Switcher](https://github.com/ShayBox/WootingProfileSwitcher) ⭐ 88 | 🐛 5 | 🌐 Rust | 📅 2026-05-31 A small tool to automatically switch between the profiles of your Wooting keyboard.
+* [Wooting Profile Switcher](https://github.com/ShayBox/WootingProfileSwitcher) ⭐ 88 | 🐛 5 | 🌐 Rust | 📅 2026-09-28 A small tool to automatically switch between the profiles of your Wooting keyboard.
 * [Wooting Analog MIDI](https://github.com/WootingKb/wooting-analog-midi) ⭐ 87 | 🐛 24 | 🌐 TypeScript | 📅 2024-07-23 Simple app that converts Analog inputs into MIDI
 * [Wootili-View](https://github.com/MrEnder0/wootili-view) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2026-08-25 Ambilight software for Wooting devices
 * [Artemis RGB](https://artemis-rgb.com/) Unified RGB Software covering many manufacturers and devices (including Wooting), with support for many Games and effects
@@ -33,7 +33,7 @@ A collection of Wooting related awesomeness!
 
 * [RGB.NET](https://github.com/DarthAffe/RGB.NET) ⭐ 420 | 🐛 19 | 🌐 C# | 📅 2026-05-19 .NET SDK for controlling RGB across various manufacturers
 * [Wooting Analog SDK](https://github.com/WootingKb/wooting-analog-sdk) ⭐ 224 | 🐛 31 | 🌐 Rust | 📅 2026-07-28 SDK for reading the analog data from analog keyboards
-* [Wooting RGB SDK](https://github.com/WootingKb/wooting-rgb-sdk) ⭐ 80 | 🐛 9 | 🌐 C | 📅 2025-12-09 SDK for controlling the RGB of Wooting keyboards
+* [Wooting RGB SDK](https://github.com/WootingKb/wooting-rgb-sdk) ⭐ 80 | 🐛 8 | 🌐 C | 📅 2026-09-28 SDK for controlling the RGB of Wooting keyboards
 * [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) Open source & cross-platform RGB lighting control that doesn't depend on manufacturer software (with support for Wooting Keyboards)
 
 ### Language Wrappers
@@ -44,7 +44,7 @@ A collection of Wooting related awesomeness!
 * [Wooting.JS](https://github.com/Mexican-Man/wooting-js) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2022-05-22 Lightweight Javascript(TS) library for reading analog input on the Web using WebHID!
 * [WootingAnalogSDK.NET](https://github.com/WootingKb/wooting-analog-wrappers) ⭐ 7 | 🐛 4 | 🌐 C# | 📅 2023-01-10 .NET Wrapper for the Wooting Analog SDK
 * [Python Wooting RGB](https://github.com/xiamaz/python-wooting-rgb) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2021-12-26 Python wrapper for Wooting RGB SDK
-* [Rust Wooting RGB](https://github.com/ShayBox/Wooting-RGB) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2026-01-31 Rust wrapper for Wooting RGB SDK
+* [Rust Wooting RGB](https://github.com/ShayBox/Wooting-RGB) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2026-09-28 Rust wrapper for Wooting RGB SDK
 
 ## Resources
 
@@ -52,4 +52,4 @@ A collection of Wooting related awesomeness!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
