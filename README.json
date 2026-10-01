@@ -141,7 +141,7 @@
             "open_issues": 12,
             "owner": "DjCrqss",
             "repo": "Woot-verlay",
-            "stars": 93,
+            "stars": 94,
             "topics": [
               "gaming-software",
               "hall-effect",
@@ -402,7 +402,7 @@
                 "open_issues": 31,
                 "owner": "WootingKb",
                 "repo": "wooting-analog-sdk",
-                "stars": 224,
+                "stars": 225,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:12.042Z"
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:16:32.999Z",
+    "last_updated": "2026-10-01T02:17:15.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
@@ -672,7 +672,7 @@
       "open_issues": 3,
       "owner": "WootingKb",
       "repo": "awesome-wooting",
-      "stars": 96,
+      "stars": 97,
       "topics": [
         "analog-keyboard",
         "awesome",
