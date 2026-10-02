@@ -402,7 +402,7 @@
                 "open_issues": 31,
                 "owner": "WootingKb",
                 "repo": "wooting-analog-sdk",
-                "stars": 225,
+                "stars": 226,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:12.042Z"
@@ -423,7 +423,7 @@
                 "open_issues": 8,
                 "owner": "WootingKb",
                 "repo": "wooting-rgb-sdk",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "wooting"
                 ]
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:17:15.540Z",
+    "last_updated": "2026-10-02T02:26:38.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
