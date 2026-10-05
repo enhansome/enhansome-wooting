@@ -48,8 +48,8 @@ A collection of Wooting related awesomeness!
 
 ## Resources
 
-* [Wooting Design Files](https://github.com/WootingKb/wooting-design) ⭐ 165 | 🐛 2 | 📅 2026-01-19 Design and hardware files for Wooting keyboards
+* [Wooting Design Files](https://github.com/WootingKb/wooting-design) ⭐ 164 | 🐛 2 | 📅 2026-01-19 Design and hardware files for Wooting keyboards
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
