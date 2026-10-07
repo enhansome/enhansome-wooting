@@ -141,7 +141,7 @@
             "open_issues": 12,
             "owner": "DjCrqss",
             "repo": "Woot-verlay",
-            "stars": 94,
+            "stars": 95,
             "topics": [
               "gaming-software",
               "hall-effect",
@@ -289,7 +289,7 @@
             "id": 701079061,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-07-26T12:03:12Z",
+            "last_commit": "2026-10-06T17:10:53Z",
             "open_issues": 20,
             "owner": "AnalogSense",
             "repo": "universal-analog-plugin",
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:04:02.618Z",
+    "last_updated": "2026-10-07T02:34:58.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
