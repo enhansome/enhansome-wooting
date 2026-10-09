@@ -23,7 +23,7 @@ A collection of Wooting related awesomeness!
 
 ## Misc
 
-* [Universal Analog Plugin](https://github.com/calamity-inc/universal-analog-plugin) ⭐ 37 | 🐛 20 | 🌐 C++ | 📅 2026-10-06 is a plugin for the Wooting Analog SDK that adds support for Razer keyboards
+* [Universal Analog Plugin](https://github.com/calamity-inc/universal-analog-plugin) ⭐ 37 | 🐛 21 | 🌐 C++ | 📅 2026-10-06 is a plugin for the Wooting Analog SDK that adds support for Razer keyboards
 * [Wooting Snake](https://github.com/TanTanDev/wooting_snake) ⭐ 26 | 🐛 4 | 🌐 Rust | 📅 2022-06-24 Snake on wooting keyboards, written with Rust
 * [wootinstaller](https://github.com/Calslock/wootinstaller) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2025-06-19 Wootility auto-configurator and installer for Linux/Steam Deck
 
@@ -52,4 +52,4 @@ A collection of Wooting related awesomeness!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

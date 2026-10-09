@@ -290,7 +290,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-06T17:10:53Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "AnalogSense",
             "repo": "universal-analog-plugin",
             "stars": 37,
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:49:23.023Z",
+    "last_updated": "2026-10-09T03:01:04.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
