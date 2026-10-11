@@ -47,6 +47,27 @@
         },
         {
           "node_type": "item",
+          "title": "Wooting Analog MIDI",
+          "description": "Simple app that converts Analog inputs into MIDI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cross-platform virtual MIDI device for (Wooting) analog keyboards!",
+            "homepage": null,
+            "id": 279042059,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2024-07-23T00:20:48Z",
+            "open_issues": 24,
+            "owner": "WootingKb",
+            "repo": "wooting-analog-midi",
+            "stars": 89,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:00:12.042Z"
+        },
+        {
+          "node_type": "item",
           "title": "Wooting Profile Switcher",
           "description": "A small tool to automatically switch between the profiles of your Wooting keyboard.",
           "children": [],
@@ -70,27 +91,6 @@
               "wooting-keyboard",
               "wooting-keyboards"
             ]
-          },
-          "first_seen": "2026-08-28T07:00:12.042Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Wooting Analog MIDI",
-          "description": "Simple app that converts Analog inputs into MIDI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Cross-platform virtual MIDI device for (Wooting) analog keyboards!",
-            "homepage": null,
-            "id": 279042059,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2024-07-23T00:20:48Z",
-            "open_issues": 24,
-            "owner": "WootingKb",
-            "repo": "wooting-analog-midi",
-            "stars": 88,
-            "topics": []
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
         },
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:32:52.517Z",
+    "last_updated": "2026-10-11T02:02:59.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
