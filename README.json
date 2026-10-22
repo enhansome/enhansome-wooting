@@ -19,7 +19,7 @@
             "open_issues": 654,
             "owner": "antonpup",
             "repo": "Aurora",
-            "stars": 1842,
+            "stars": 1841,
             "topics": [
               "aurora",
               "c-sharp",
@@ -423,7 +423,7 @@
                 "open_issues": 8,
                 "owner": "WootingKb",
                 "repo": "wooting-rgb-sdk",
-                "stars": 82,
+                "stars": 83,
                 "topics": [
                   "wooting"
                 ]
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T01:49:59.803Z",
+    "last_updated": "2026-10-22T01:41:12.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
@@ -669,7 +669,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-02-24T13:02:28Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "WootingKb",
       "repo": "awesome-wooting",
       "stars": 98,
