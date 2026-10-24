@@ -420,7 +420,7 @@
                 "language": "C",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-28T09:14:40Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "WootingKb",
                 "repo": "wooting-rgb-sdk",
                 "stars": 83,
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T01:44:05.392Z",
+    "last_updated": "2026-10-24T01:47:51.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
