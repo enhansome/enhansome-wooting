@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:24:41.449Z",
+    "last_updated": "2026-10-26T01:28:30.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
@@ -672,7 +672,7 @@
       "open_issues": 4,
       "owner": "WootingKb",
       "repo": "awesome-wooting",
-      "stars": 98,
+      "stars": 99,
       "topics": [
         "analog-keyboard",
         "awesome",
