@@ -110,7 +110,7 @@
             "open_issues": 0,
             "owner": "treymouledoux",
             "repo": "wootili-view",
-            "stars": 11,
+            "stars": 10,
             "topics": [
               "dynamic-lighting",
               "rgb",
@@ -419,8 +419,8 @@
                 "id": 133573560,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-28T09:14:40Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-26T09:02:36Z",
+                "open_issues": 8,
                 "owner": "WootingKb",
                 "repo": "wooting-rgb-sdk",
                 "stars": 83,
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:28:30.261Z",
+    "last_updated": "2026-10-27T02:17:36.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
