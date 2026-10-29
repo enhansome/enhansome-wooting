@@ -498,6 +498,31 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Wooting.JS",
+                  "description": "Lightweight Javascript(TS) library for reading analog input on the Web using WebHID!",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Minimal JavaScript (TypeScript) library using WebHID ",
+                    "homepage": "https://mexican-man.github.io/wooting-js/",
+                    "id": 389819192,
+                    "language": "TypeScript",
+                    "license": "Unlicense",
+                    "last_commit": "2022-05-22T21:34:43Z",
+                    "open_issues": 0,
+                    "owner": "colecrouter",
+                    "repo": "wooting-js",
+                    "stars": 9,
+                    "topics": [
+                      "javascript",
+                      "typescript",
+                      "wooting-keyboard"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T07:00:12.042Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Analog Unreal Engine plugin",
                   "description": "Plugin for Unreal Engine to support the integration of Wooting Analog inputs",
                   "children": [],
@@ -518,31 +543,6 @@
                       "unreal-engine",
                       "wooting",
                       "wooting-analog-sdk"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T07:00:12.042Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Wooting.JS",
-                  "description": "Lightweight Javascript(TS) library for reading analog input on the Web using WebHID!",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Minimal JavaScript (TypeScript) library using WebHID ",
-                    "homepage": "https://mexican-man.github.io/wooting-js/",
-                    "id": 389819192,
-                    "language": "TypeScript",
-                    "license": "Unlicense",
-                    "last_commit": "2022-05-22T21:34:43Z",
-                    "open_issues": 0,
-                    "owner": "colecrouter",
-                    "repo": "wooting-js",
-                    "stars": 8,
-                    "topics": [
-                      "javascript",
-                      "typescript",
-                      "wooting-keyboard"
                     ]
                   },
                   "first_seen": "2026-08-28T07:00:12.042Z"
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T02:29:51.147Z",
+    "last_updated": "2026-10-29T02:38:07.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
