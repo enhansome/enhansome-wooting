@@ -19,7 +19,7 @@
             "open_issues": 654,
             "owner": "antonpup",
             "repo": "Aurora",
-            "stars": 1841,
+            "stars": 1840,
             "topics": [
               "aurora",
               "c-sharp",
@@ -645,7 +645,7 @@
                 "open_issues": 2,
                 "owner": "WootingKb",
                 "repo": "wooting-design",
-                "stars": 165,
+                "stars": 166,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:12.042Z"
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:38:07.602Z",
+    "last_updated": "2026-10-30T02:46:09.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
