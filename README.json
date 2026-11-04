@@ -19,7 +19,7 @@
             "open_issues": 654,
             "owner": "antonpup",
             "repo": "Aurora",
-            "stars": 1842,
+            "stars": 1841,
             "topics": [
               "aurora",
               "c-sharp",
@@ -290,7 +290,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-06T17:10:53Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "AnalogSense",
             "repo": "universal-analog-plugin",
             "stars": 37,
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:58:35.408Z",
+    "last_updated": "2026-11-04T03:06:16.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
