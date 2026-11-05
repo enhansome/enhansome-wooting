@@ -141,7 +141,7 @@
             "open_issues": 12,
             "owner": "DjCrqss",
             "repo": "Woot-verlay",
-            "stars": 96,
+            "stars": 95,
             "topics": [
               "gaming-software",
               "hall-effect",
@@ -402,7 +402,7 @@
                 "open_issues": 31,
                 "owner": "WootingKb",
                 "repo": "wooting-analog-sdk",
-                "stars": 232,
+                "stars": 233,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:12.042Z"
@@ -498,6 +498,32 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Analog Unreal Engine plugin",
+                  "description": "Plugin for Unreal Engine to support the integration of Wooting Analog inputs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Plugin for Unreal Engine to support the integration of Wooting Analog inputs",
+                    "homepage": null,
+                    "id": 209517483,
+                    "language": "C++",
+                    "license": "MPL-2.0",
+                    "last_commit": "2020-09-10T10:26:11Z",
+                    "open_issues": 0,
+                    "owner": "WootingKb",
+                    "repo": "wooting-analog-unreal-plugin",
+                    "stars": 9,
+                    "topics": [
+                      "analog",
+                      "unreal-engine",
+                      "wooting",
+                      "wooting-analog-sdk"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T07:00:12.042Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Wooting.JS",
                   "description": "Lightweight Javascript(TS) library for reading analog input on the Web using WebHID!",
                   "children": [],
@@ -517,32 +543,6 @@
                       "javascript",
                       "typescript",
                       "wooting-keyboard"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T07:00:12.042Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Analog Unreal Engine plugin",
-                  "description": "Plugin for Unreal Engine to support the integration of Wooting Analog inputs",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Plugin for Unreal Engine to support the integration of Wooting Analog inputs",
-                    "homepage": null,
-                    "id": 209517483,
-                    "language": "C++",
-                    "license": "MPL-2.0",
-                    "last_commit": "2020-09-10T10:26:11Z",
-                    "open_issues": 0,
-                    "owner": "WootingKb",
-                    "repo": "wooting-analog-unreal-plugin",
-                    "stars": 8,
-                    "topics": [
-                      "analog",
-                      "unreal-engine",
-                      "wooting",
-                      "wooting-analog-sdk"
                     ]
                   },
                   "first_seen": "2026-08-28T07:00:12.042Z"
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T03:06:16.620Z",
+    "last_updated": "2026-11-05T03:36:46.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
