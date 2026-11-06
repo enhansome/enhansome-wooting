@@ -61,7 +61,7 @@
             "open_issues": 24,
             "owner": "WootingKb",
             "repo": "wooting-analog-midi",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T03:36:46.162Z",
+    "last_updated": "2026-11-06T03:31:14.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
