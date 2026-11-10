@@ -364,7 +364,7 @@
                 "open_issues": 20,
                 "owner": "DarthAffe",
                 "repo": "RGB.NET",
-                "stars": 420,
+                "stars": 421,
                 "topics": [
                   "asus",
                   "aura",
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:52:22.821Z",
+    "last_updated": "2026-11-10T04:43:10.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
