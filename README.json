@@ -106,7 +106,7 @@
             "id": 742701618,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-11T17:20:53Z",
+            "last_commit": "2026-11-12T20:25:37Z",
             "open_issues": 0,
             "owner": "treymouledoux",
             "repo": "wootili-view",
@@ -141,7 +141,7 @@
             "open_issues": 12,
             "owner": "DjCrqss",
             "repo": "Woot-verlay",
-            "stars": 95,
+            "stars": 94,
             "topics": [
               "gaming-software",
               "hall-effect",
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T04:00:28.831Z",
+    "last_updated": "2026-11-13T03:30:19.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",

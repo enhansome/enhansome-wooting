@@ -9,12 +9,12 @@ A collection of Wooting related awesomeness!
 * [Aurora RGB](https://github.com/antonpup/Aurora) ⭐ 1,841 | 🐛 654 | 🌐 C# | 📅 2023-11-15 Similar to Artemis, but not really maintained anymore
 * [Wooting Analog MIDI](https://github.com/WootingKb/wooting-analog-midi) ⭐ 90 | 🐛 24 | 🌐 TypeScript | 📅 2024-07-23 Simple app that converts Analog inputs into MIDI
 * [Wooting Profile Switcher](https://github.com/ShayBox/WootingProfileSwitcher) ⭐ 88 | 🐛 5 | 🌐 Rust | 📅 2026-09-28 A small tool to automatically switch between the profiles of your Wooting keyboard.
-* [Wootili-View](https://github.com/MrEnder0/wootili-view) ⭐ 10 | 🐛 0 | 🌐 Rust | 📅 2026-11-11 Ambilight software for Wooting devices
+* [Wootili-View](https://github.com/MrEnder0/wootili-view) ⭐ 10 | 🐛 0 | 🌐 Rust | 📅 2026-11-12 Ambilight software for Wooting devices
 * [Artemis RGB](https://artemis-rgb.com/) Unified RGB Software covering many manufacturers and devices (including Wooting), with support for many Games and effects
 
 ## Integrations
 
-* [Woot-verlay](https://github.com/DjCrqss/Woot-verlay) ⭐ 95 | 🐛 12 | 🌐 JavaScript | 📅 2025-11-16 Inspired by the Analog Overlay for OBS, but makes use of the Analog SDK to give full analog visualisation. By DjCrqss
+* [Woot-verlay](https://github.com/DjCrqss/Woot-verlay) ⭐ 94 | 🐛 12 | 🌐 JavaScript | 📅 2025-11-16 Inspired by the Analog Overlay for OBS, but makes use of the Analog SDK to give full analog visualisation. By DjCrqss
 * [Analog Overlay for OBS](https://github.com/DarrenVs/analog_keyboard_overlay) ⭐ 12 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-26 [(Demo)](https://darrenvs.github.io/analog_keyboard_overlay/) A browser plugin for OBS Studio with an overlay that displays (virtual)controller axes as a keyboard for those who want to show off their analog keyboards on stream/recordings
 * [AnalogSense](https://github.com/Sainan/AnalogSense) ⭐ 11 | 🐛 3 | 🌐 C++ | 📅 2026-10-27 A mod that patches analog input into Cyberpunk 2077 and Grand Theft Auto V.
 * [Kerbal Space Program plugin](https://github.com/Kristallranke/KSPW00tNow) ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2024-10-26 A plugin for Kerbal Space Program which adds support for Wooting keyboards
@@ -52,4 +52,4 @@ A collection of Wooting related awesomeness!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
