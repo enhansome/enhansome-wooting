@@ -423,7 +423,7 @@
                 "open_issues": 8,
                 "owner": "WootingKb",
                 "repo": "wooting-rgb-sdk",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "wooting"
                 ]
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:30:19.952Z",
+    "last_updated": "2026-11-14T03:26:47.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
