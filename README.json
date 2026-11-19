@@ -19,7 +19,7 @@
             "open_issues": 654,
             "owner": "antonpup",
             "repo": "Aurora",
-            "stars": 1842,
+            "stars": 1841,
             "topics": [
               "aurora",
               "c-sharp",
@@ -61,7 +61,7 @@
             "open_issues": 24,
             "owner": "WootingKb",
             "repo": "wooting-analog-midi",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T04:38:13.198Z",
+    "last_updated": "2026-11-19T04:21:42.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
