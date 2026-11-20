@@ -19,7 +19,7 @@
             "open_issues": 654,
             "owner": "antonpup",
             "repo": "Aurora",
-            "stars": 1841,
+            "stars": 1840,
             "topics": [
               "aurora",
               "c-sharp",
@@ -364,7 +364,7 @@
                 "open_issues": 20,
                 "owner": "DarthAffe",
                 "repo": "RGB.NET",
-                "stars": 421,
+                "stars": 420,
                 "topics": [
                   "asus",
                   "aura",
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:21:42.651Z",
+    "last_updated": "2026-11-20T04:09:18.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
