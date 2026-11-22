@@ -242,7 +242,7 @@
             "language": "C#",
             "license": "MPL-2.0",
             "last_commit": "2026-03-16T22:04:10Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "Garbius",
             "repo": "WootingPlugin",
             "stars": 4,
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T04:08:39.073Z",
+    "last_updated": "2026-11-22T03:20:44.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
