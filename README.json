@@ -361,7 +361,7 @@
                 "language": "C#",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-05-19T12:40:58Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "DarthAffe",
                 "repo": "RGB.NET",
                 "stars": 420,
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T03:20:44.962Z",
+    "last_updated": "2026-11-23T03:53:25.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
