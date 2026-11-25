@@ -16,7 +16,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2023-11-15T22:40:43Z",
-            "open_issues": 654,
+            "open_issues": 655,
             "owner": "antonpup",
             "repo": "Aurora",
             "stars": 1842,
@@ -402,7 +402,7 @@
                 "open_issues": 30,
                 "owner": "WootingKb",
                 "repo": "wooting-analog-sdk",
-                "stars": 234,
+                "stars": 235,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:12.042Z"
@@ -645,7 +645,7 @@
                 "open_issues": 2,
                 "owner": "WootingKb",
                 "repo": "wooting-design",
-                "stars": 167,
+                "stars": 169,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:12.042Z"
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T07:01:13.105Z",
+    "last_updated": "2026-11-25T05:34:52.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
