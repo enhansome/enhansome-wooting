@@ -23,8 +23,8 @@ A collection of Wooting related awesomeness!
 
 ## Misc
 
-* [Universal Analog Plugin](https://github.com/calamity-inc/universal-analog-plugin) ⭐ 38 | 🐛 24 | 🌐 C++ | 📅 2026-10-06 is a plugin for the Wooting Analog SDK that adds support for Razer keyboards
-* [Wooting Snake](https://github.com/TanTanDev/wooting_snake) ⭐ 26 | 🐛 4 | 🌐 Rust | 📅 2022-06-24 Snake on wooting keyboards, written with Rust
+* [Universal Analog Plugin](https://github.com/calamity-inc/universal-analog-plugin) ⭐ 38 | 🐛 25 | 🌐 C++ | 📅 2026-10-06 is a plugin for the Wooting Analog SDK that adds support for Razer keyboards
+* [Wooting Snake](https://github.com/TanTanDev/wooting_snake) ⭐ 27 | 🐛 4 | 🌐 Rust | 📅 2022-06-24 Snake on wooting keyboards, written with Rust
 * [wootinstaller](https://github.com/Calslock/wootinstaller) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2025-06-19 Wootility auto-configurator and installer for Linux/Steam Deck
 
 # For developers
@@ -33,7 +33,7 @@ A collection of Wooting related awesomeness!
 
 * [RGB.NET](https://github.com/DarthAffe/RGB.NET) ⭐ 420 | 🐛 21 | 🌐 C# | 📅 2026-05-19 .NET SDK for controlling RGB across various manufacturers
 * [Wooting Analog SDK](https://github.com/WootingKb/wooting-analog-sdk) ⭐ 235 | 🐛 30 | 🌐 Rust | 📅 2026-07-28 SDK for reading the analog data from analog keyboards
-* [Wooting RGB SDK](https://github.com/WootingKb/wooting-rgb-sdk) ⭐ 85 | 🐛 8 | 🌐 C | 📅 2026-10-26 SDK for controlling the RGB of Wooting keyboards
+* [Wooting RGB SDK](https://github.com/WootingKb/wooting-rgb-sdk) ⭐ 86 | 🐛 8 | 🌐 C | 📅 2026-10-26 SDK for controlling the RGB of Wooting keyboards
 * [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) Open source & cross-platform RGB lighting control that doesn't depend on manufacturer software (with support for Wooting Keyboards)
 
 ### Language Wrappers
@@ -52,4 +52,4 @@ A collection of Wooting related awesomeness!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._

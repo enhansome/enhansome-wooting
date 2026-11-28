@@ -290,7 +290,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-06T17:10:53Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "AnalogSense",
             "repo": "universal-analog-plugin",
             "stars": 38,
@@ -314,7 +314,7 @@
             "open_issues": 4,
             "owner": "TanTanDev",
             "repo": "wooting_snake",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T07:00:12.042Z"
@@ -423,7 +423,7 @@
                 "open_issues": 8,
                 "owner": "WootingKb",
                 "repo": "wooting-rgb-sdk",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "wooting"
                 ]
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T05:13:51.244Z",
+    "last_updated": "2026-11-28T04:51:32.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesomeness around Wooting keyboards",
@@ -672,7 +672,7 @@
       "open_issues": 4,
       "owner": "WootingKb",
       "repo": "awesome-wooting",
-      "stars": 99,
+      "stars": 100,
       "topics": [
         "analog-keyboard",
         "awesome",
